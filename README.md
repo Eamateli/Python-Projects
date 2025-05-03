@@ -1,6 +1,6 @@
 # Python Projects
 <details>
-  <summary>📂 Python Projects Level</summary>
+  <summary>📂 Python Projects</summary>
 
   <h4>🚀 Beginner</h4>
   <ul>

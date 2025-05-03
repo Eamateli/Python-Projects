@@ -1,4 +1,5 @@
-# ![Python Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python_3.9_logo.svg/512px-Python_3.9_logo.svg.png) Python Projects
+# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python_3.9_logo.svg/512px-Python_3.9_logo.svg.png" width="30" height="30" /> Python Projects
+
 
 
 <details>

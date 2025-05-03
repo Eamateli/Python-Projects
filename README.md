@@ -1,4 +1,5 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python_3.9_logo.svg/512px-Python_3.9_logo.svg.png" width="30" height="30" /> Python Projects
+# <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" height="20" /> Python Projects
+
 
 
 

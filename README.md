@@ -1,42 +1,43 @@
-# 🐍 Python Projects
+# ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python Projects
+
 <details>
   <summary>📂 Python Projects</summary>
 
   <h4>🚀 Beginner</h4>
   <ul>
-    <li><a href="#" target="_blank">Hangman Project in Python</a></li>
-    <li><a href="#" target="_blank">Rock Paper Scissors Python Game</a></li>
-    <li><a href="#" target="_blank">Dice Rolling Simulator in Python</a></li>
-    <li><a href="#" target="_blank">Email Slicer Project</a></li>
-    <li><a href="#" target="_blank">Mad Libs Generator Python Game</a></li>
-    <li><a href="#" target="_blank">Message Encode Decode in Python Project</a></li>
-    <li><a href="#" target="_blank">Magic 8 Ball Game</a></li>
-    <li><a href="#" target="_blank">Target Practice Game</a></li>
+    <li><a href="#" target="_blank">Hangman</a></li>
+    <li><a href="#" target="_blank">Rock Paper Scissors</a></li>
+    <li><a href="#" target="_blank">Dice Rolling Simulator</a></li>
+    <li><a href="#" target="_blank">Email Slicer</a></li>
+    <li><a href="#" target="_blank">Mad Libs Generator</a></li>
+    <li><a href="#" target="_blank">Message Encode Decode</a></li>
+    <li><a href="#" target="_blank">Magic 8 Ball</a></li>
+    <li><a href="#" target="_blank">Target Practice</a></li>
     <li><a href="#" target="_blank">Alarm Clock with GUI</a></li>
     <li><a href="#" target="_blank">Binary Search Algorithm</a></li>
-    <li><a href="#" target="_blank">Desktop Notifier App in Python</a></li>
-    <li><a href="#" target="_blank">Convert Text to Speech in Python</a></li>
-    <li><a href="#" target="_blank">Clickomania Game</a></li>
-    <li><a href="#" target="_blank">Python Battleship Game</a></li>
+    <li><a href="#" target="_blank">Desktop Notifier App</a></li>
+    <li><a href="#" target="_blank">Convert Text to Speech</a></li>
+    <li><a href="#" target="_blank">Clickomania</a></li>
+    <li><a href="#" target="_blank">Python Battleship</a></li>
   </ul>
 
   <h4>⚙️ Intermediate</h4>
   <ul>
     <li><a href="#" target="_blank">YouTube Videos Downloader</a></li>
-    <li><a href="#" target="_blank">Language Translator in Python Project</a></li>
-    <li><a href="#" target="_blank">Python Website Blocker</a></li>
-    <li><a href="#" target="_blank">Python Flappy Bird Game</a></li>
-    <li><a href="#" target="_blank">Python Speak the Meaning of Word</a></li>
-    <li><a href="#" target="_blank">Python Convert Speech to Text and Text to Speech</a></li>
+    <li><a href="#" target="_blank">Language Translator</a></li>
+    <li><a href="#" target="_blank">Website Blocker</a></li>
+    <li><a href="#" target="_blank">Flappy Bird</a></li>
+    <li><a href="#" target="_blank">Speak the Meaning of Word</a></li>
+    <li><a href="#" target="_blank">Convert Speech to Text and Text to Speech</a></li>
   </ul>
 
   <h4>🧠 Advanced</h4>
   <ul>
-    <li><a href="#" target="_blank">Python Read Data From Google Sheets</a></li>
-    <li><a href="#" target="_blank">Python Image Format Converter</a></li>
-    <li><a href="#" target="_blank">Python File Explorer</a></li>
-    <li><a href="#" target="_blank">Python Song Lyrics Extractor</a></li>
-    <li><a href="#" target="_blank">Python Solar System Visualizer</a></li>
+    <li><a href="#" target="_blank">Read Data From Google Sheets</a></li>
+    <li><a href="#" target="_blank">Image Format Converter</a></li>
+    <li><a href="#" target="_blank">File Explorer</a></li>
+    <li><a href="#" target="_blank">Song Lyrics Extractor</a></li>
+    <li><a href="#" target="_blank">Solar System Visualizer</a></li>
   </ul>
 
 </details>

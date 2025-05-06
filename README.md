@@ -8,7 +8,7 @@
 
   <h4>🚀 Beginner</h4>
   <ul>
-    <li><a href="#" target="_blank">Bookbot</a></li>
+    <li><a href="https://github.com/Eamateli/Python-Projects/tree/main/Beginner/Bookbot" target="_blank">Bookbot</a></li>
     <li><a href="#" target="_blank">Hangman</a></li>
     <li><a href="#" target="_blank">Rock Paper Scissors</a></li>
     <li><a href="#" target="_blank">Dice Rolling Simulator</a></li>

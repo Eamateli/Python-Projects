@@ -4,7 +4,8 @@
 
 
 <details>
-  <summary>📂 Python Projects</summary>
+  <summary>![Coiled Snake Icon](https://img.freepik.com/free-icon/snake_427614.png)
+ Python Projects</summary>
 
   <h4>🚀 Beginner</h4>
   <ul>

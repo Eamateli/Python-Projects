@@ -1,10 +1,5 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="45" height="45" /> Python Projects
 
-# bookbot
-
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
-
-
 <details>
   <summary>🐍 Python Projects</summary>
 

@@ -1,8 +1,5 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="45" height="45" /> Python Projects
 
-
-
-
 <details>
   <summary>🐍 Python Projects</summary>
 

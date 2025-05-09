@@ -1,5 +1,6 @@
 # Bookbot
-<img width="294" alt="bookbot" src="https://github.com/user-attachments/assets/f4198c75-55a3-4976-ad4a-7e639bc9f4fc" />
+
+<img width="292" alt="bookbot_" src="https://github.com/user-attachments/assets/34efb588-f678-4d13-a5c5-528d84c00219" />
 
 
 BookBot is a simple Python command-line tool that analyzes the contents of a text file (e.g., a book). It outputs the total word count and a sorted count of each alphabetic character (case-insensitive).

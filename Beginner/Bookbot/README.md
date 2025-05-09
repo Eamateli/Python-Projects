@@ -10,4 +10,4 @@ BookBot is a simple Python command-line tool that analyzes the contents of a tex
 *Easy-to-use CLI interface
 
 ## Usage
-<pre><code>```python3 main.py path/to/your/book.txt ```</code></pre>
+<pre><code>python3 main.py path/to/your/book.txt</code></pre>

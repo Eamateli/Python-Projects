@@ -86,28 +86,55 @@
 </details>
 
 
-
 <details>
-  <summary><a href="https://github.com/Eamateli/Python-Machine-Learning-Projects" target="_blank">📈 Python Machine Learning Projects</a></summary>
+  <summary><a href="https://github.com/Eamateli/Python-Machine-Learning-Projects" target="_blank">📈 Machine Learning Projects</a></summary>
 
   <h4>🚀 Beginner</h4>
   <ul>
-    <li><a href="#">Example 1</a></li>
-    <li><a href="#">Example 2</a></li>
+    <li><a href="#">Cartoonify Image</a></li>
+    <li><a href="#">Iris Flowers Classification</a></li>
+    <li><a href="#">Emojify – Create your own emoji</a></li>
+    <li><a href="#">Loan Prediction</a></li>
+    <li><a href="#">Housing Prices Predictiont</a></li>
+    <li><a href="#">Language Translation</a></li>
+    <li><a href="#">MNIST Digit Classificationt</a></li>
+    <li><a href="#">Stock Price Prediction</a></li>
+    <li><a href="#">Titanic Survival Project</a></li>
+    <li><a href="#">Wine Quality Test</a></li>
+    <li><a href="#">Fake News Detection</a></li>
+    <li><a href="#">Text Summarization</a></li>
   </ul>
 
   <h4>⚙️ Intermediate</h4>
   <ul>
-    <li><a href="#">Example 3</a></li>
-    <li><a href="#">Example 4</a></li>
+    <li><a href="#">Music Genre Classification</a></li>
+    <li><a href="#">Bitcoin Price Predictor</a></li>
+    <li><a href="#">Uber Data Analysis</a></li>
+    <li><a href="#">Personality Prediction</a></li>
+    <li><a href="#">Handwritten Character Recognition</a></li>
+    <li><a href="#">Xbox Game Prediction</a></li>
+    <li><a href="#">Credit Card Fraud Detection</a></li>
+    <li><a href="#">Sign Language Recognition </a></li>
+    <li><a href="#">Barbie with Brains</a></li>
+    <li><a href="#">Customer Segmentation</a></li>
+    <li><a href="#">Book Recommendation System</a></li>
   </ul>
 
   <h4>🧠 Advanced</h4>
   <ul>
-    <li><a href="#">Example 5</a></li>
-    <li><a href="#">Example 6</a></li>
+    <li><a href="#">Sentiment Analysis</a></li>
+    <li><a href="#">Enron Investigationt</a></li>
+    <li><a href="#">Speech Emotion Recognition</a></li>
+    <li><a href="#">Catching Illegal Fishing</a></li>
+    <li><a href="#">Online Grocery Recommendation</a></li>
+    <li><a href="#">Movie Recommendation System</a></li>
+    <li><a href="#">Automatic License Number</a></li>
+    <li><a href="#">Image Segmentation</a></li>
+    <li><a href="#">SMS Spam Detection</a></li>
   </ul>
+
 </details>
+
 
 <details>
   <summary><a href="https://github.com/Eamateli/Python-Data-Science-Projects" target="_blank">📊 Python Data Science Projects</a></summary>

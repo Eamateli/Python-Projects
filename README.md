@@ -137,26 +137,42 @@
 
 
 <details>
-  <summary><a href="https://github.com/Eamateli/Python-Data-Science-Projects" target="_blank">📊 Python Data Science Projects</a></summary>
+  <summary><a href="#">📊 Data Science Project Ideas</a></summary>
 
   <h4>🚀 Beginner</h4>
   <ul>
-    <li><a href="#">Example 1</a></li>
-    <li><a href="#">Example 2</a></li>
+    <li><a href="#">Fake News Detection</a></li>
+    <li><a href="#">Road Lane Detection</a></li>
+    <li><a href="#">Sentiment Analysis of Novels</a></li>
+    <li><a href="#">Parkinson’s Disease Detection</a></li>
+    <li><a href="#">Color Detection in Images</a></li>
+    <li><a href="#">Brain Tumor Detection</a></li>
+    <li><a href="#">Leaf Disease Detection</a></li>
   </ul>
 
   <h4>⚙️ Intermediate</h4>
   <ul>
-    <li><a href="#">Example 3</a></li>
-    <li><a href="#">Example 4</a></li>
+    <li><a href="#">Speech Emotion Recognition</a></li>
+    <li><a href="#">Gender and Age Detection</a></li>
+    <li><a href="#">Diabetic Retinopathy Detection</a></li>
+    <li><a href="#">Uber Ride Data Analysis</a></li>
+    <li><a href="#">Driver Drowsiness Detection</a></li>
+    <li><a href="#">Chatbot using NLTK & Keras</a></li>
+    <li><a href="#">Handwritten Digit Recognition</a></li>
   </ul>
 
   <h4>🧠 Advanced</h4>
   <ul>
-    <li><a href="#">Example 5</a></li>
-    <li><a href="#">Example 6</a></li>
+    <li><a href="#">Image Caption Generator</a></li>
+    <li><a href="#">Credit Card Fraud Detection</a></li>
+    <li><a href="#">Movie Recommendation System</a></li>
+    <li><a href="#">Customer Segmentation with Clustering</a></li>
+    <li><a href="#">Breast Cancer Detection (IDC)</a></li>
+    <li><a href="#">Traffic Sign Recognition</a></li>
   </ul>
+
 </details>
+
 
 <details>
   <summary><a href="https://github.com/Eamateli/Python-Deep-Learning-Projects" target="_blank">🧬 Python Deep Learning Projects</a></summary>

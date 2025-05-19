@@ -177,45 +177,44 @@
 <details>
   <summary><a href="https://github.com/Eamateli/Python-Deep-Learning-Projects" target="_blank">🧬 Python Deep Learning Projects</a></summary>
 
-  <h4>🚀 Beginner</h4>
+ <h4>🚀 Beginner</h4>
   <ul>
-    <li><a href="#">Example 1</a></li>
-    <li><a href="#">Example 2</a></li>
+    <li><a href="#">Cats vs Dogs Classification</a></li>
+    <li><a href="#">Predict Next Sequence</a></li>
+    <li><a href="#">Build Your Own Neural Net from Scratch</a></li>
+    <li><a href="#">Image Classification with CIFAR-10</a></li>
+    <li><a href="#">Human Face Detection</a></li>
+    <li><a href="#">Dog’s Breed Identification</a></li>
+    <li><a href="#">Speech Emotion Recognition</a></li>
   </ul>
 
   <h4>⚙️ Intermediate</h4>
   <ul>
-    <li><a href="#">Example 3</a></li>
-    <li><a href="#">Example 4</a></li>
+    <li><a href="#">Traffic Sign Classification</a></li>
+    <li><a href="#">Automatic Music Generation</a></li>
+    <li><a href="#">Breast Cancer Classification</a></li>
+    <li><a href="#">Music Genre Classification</a></li>
+    <li><a href="#">Text Summarizer</a></li>
+    <li><a href="#">Gender Recognition Using Voice</a></li>
+    <li><a href="#">Chatbot Using Deep Learning</a></li>
+    <li><a href="#">Neural Style Transfer</a></li>
+    <li><a href="#">Face Aging with GANs</a></li>
+    <li><a href="#">Emoji Prediction from Text</a></li>
   </ul>
 
   <h4>🧠 Advanced</h4>
   <ul>
-    <li><a href="#">Example 5</a></li>
-    <li><a href="#">Example 6</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary><a href="https://github.com/Eamateli/Python-Computer-Vision-Projects" target="_blank">👁️ Python Computer Vision Projects</a></summary>
-
-  <h4>🚀 Beginner</h4>
-  <ul>
-    <li><a href="#">Example 1</a></li>
-    <li><a href="#">Example 2</a></li>
+    <li><a href="#">Gender and Age Detection</a></li>
+    <li><a href="#">Driver Drowsiness Detection</a></li>
+    <li><a href="#">Human Pose Estimation</a></li>
+    <li><a href="#">Human Activity Recognition with Video</a></li>
+    <li><a href="#">Image Caption Generator</a></li>
+    <li><a href="#">Generate Human Faces with DCGAN</a></li>
+    <li><a href="#">Variational Autoencoders</a></li>
+    <li><a href="#">Colorizing Black & White Images</a></li>
+    <li><a href="#">Language Translator (English to French)</a></li>
   </ul>
 
-  <h4>⚙️ Intermediate</h4>
-  <ul>
-    <li><a href="#">Example 3</a></li>
-    <li><a href="#">Example 4</a></li>
-  </ul>
-
-  <h4>🧠 Advanced</h4>
-  <ul>
-    <li><a href="#">Example 5</a></li>
-    <li><a href="#">Example 6</a></li>
-  </ul>
 </details>
 
 <details>

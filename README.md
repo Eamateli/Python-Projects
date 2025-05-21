@@ -218,6 +218,49 @@
 </details>
 
 <details>
+  <summary><a href="https://github.com/Eamateli/Python-Computer-Vision-Projects">👁️‍🗨️ Computer Vision Project Ideas</a></summary>
+
+  <h4>🚀 Beginner</h4>
+  <ul>
+    <li><a href="#">Edge Detection using OpenCV</a></li>
+    <li><a href="#">Photo to Pencil Sketch Converter</a></li>
+    <li><a href="#">Detecting Contours in Images</a></li>
+    <li><a href="#">Collage Mosaic Generator</a></li>
+    <li><a href="#">Panorama Stitching</a></li>
+    <li><a href="#">Object Tracking with CamShift</a></li>
+    <li><a href="#">Barcode and QR Code Scanner</a></li>
+    <li><a href="#">Harry Potter’s Invisibility Cloak</a></li>
+    <li><a href="#">Watermarking Images with OpenCV</a></li>
+  </ul>
+
+  <h4>⚙️ Intermediate</h4>
+  <ul>
+    <li><a href="#">Face Detection</a></li>
+    <li><a href="#">Face Blurring</a></li>
+    <li><a href="#">Image Segmentation</a></li>
+    <li><a href="#">Cartoonify an Image</a></li>
+    <li><a href="#">Human Counting with OpenCV</a></li>
+    <li><a href="#">Mobile Document Scanner</a></li>
+    <li><a href="#">Air Canvas (Hand Drawing)</a></li>
+    <li><a href="#">Color Detection from Image</a></li>
+  </ul>
+
+  <h4>🧠 Advanced</h4>
+  <ul>
+    <li><a href="#">Face Recognition System</a></li>
+    <li><a href="#">Hand Gesture Recognition</a></li>
+    <li><a href="#">Good Dog Capture (Smile Detection)</a></li>
+    <li><a href="#">Vehicle Counting and Classification</a></li>
+    <li><a href="#">Data Augmentation Generator</a></li>
+    <li><a href="#">Selfie Capture on Smile</a></li>
+    <li><a href="#">Virtual Drums with OpenCV</a></li>
+    <li><a href="#">Image Reverse Search Engine</a></li>
+    <li><a href="#">Pedestrian Detection</a></li>
+  </ul>
+
+</details>
+
+<details>
   <summary><a href="https://github.com/Eamateli/Python-Internet-of-Things-Projects" target="_blank">📡 Python Internet of Things Projects</a></summary>
 
   <h4>🚀 Beginner</h4>

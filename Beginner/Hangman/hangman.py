@@ -1,4 +1,5 @@
 import random
+import time
 
 words = ["python", "computer", "keyboard", "function", "developer"]
 hangman_drawings = [
@@ -105,7 +106,13 @@ def play_round():
         print(hangman_drawings[6])
         print(f"Game over! The word was: {word}")
 
+print("Welcome to Hangman!")
+name = input("What is your name? ")
+print(f"Hello, {name}! Let's play Hangman!")
+
 while True:
+    print("I'm thinking of a wrod...")
+    time.sleep(1)
     play_round()
     play_again = input("Do you want to play again ? (yes/no): ").lower()
     if play_again not in ("yes", "y"):

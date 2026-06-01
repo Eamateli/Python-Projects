@@ -1,6 +1,71 @@
 import random
 
 words = ["python", "computer", "keyboard", "function", "developer"]
+hangman_drawings = [
+    """
+      +---+
+      |   |
+          |
+          |
+          |
+          |
+    =========
+    """,
+    """
+      +---+
+      |   |
+      O   |
+          |
+          |
+          |
+    =========
+    """,
+    """
+      +---+
+      |   |
+      O   |
+      |   |
+          |
+          |
+    =========
+    """,
+    """
+      +---+
+      |   |
+      O   |
+     /|   |
+          |
+          |
+    =========
+    """,
+    """
+      +---+
+      |   |
+      O   |
+     /|\\  |
+          |
+          |
+    =========
+    """,
+    """
+      +---+
+      |   |
+      O   |
+     /|\\  |
+     /    |
+          |
+    =========
+    """,
+    """
+      +---+
+      |   |
+      O   |
+     /|\\  |
+     / \\  |
+          |
+    =========
+    """,
+]
 
 
 def play_round():
@@ -11,6 +76,7 @@ def play_round():
     guessed_letters = []
 
     while wrong_guesses < 6:
+        print(hangman_drawings[wrong_guesses])
         print("Word:" + " ".join(word_display))
         print("Guessed: " + ", ".join(guessed_letters))
         if "_" not in word_display:
@@ -36,6 +102,12 @@ def play_round():
             print(f"Nope. Wrong guesses: {wrong_guesses}/6")
 
     if wrong_guesses == 6:
+        print(hangman_drawings[6])
         print(f"Game over! The word was: {word}")
 
-play_round()
+while True:
+    play_round()
+    play_again = input("Do you want to play again ? (yes/no): ").lower()
+    if play_again not in ("yes", "y"):
+        print("Thanks for playing!")
+        break
